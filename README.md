@@ -19,15 +19,3 @@
 *“木鸢飞空，三日不下，此机关之极致也。”*
 
 - **术式：** `Python` / `LangChain` / `Multi-Agent Frameworks` / `Prompt Engineering`
-
----
-
-### 🏔️ 修行进度 (Cultivation Status)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaron-gx&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=ffcc00&text_color=ffffff&icon_color=ffcc00" alt="Aaron-gx's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-gx&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=ffcc00&text_color=ffffff" alt="Top Languages" />
-</p>
